@@ -1,6 +1,7 @@
 # Desktop Calculator App
--download python setup 
--
+## download python setup 
+
 > install your python  in your pc desktop or laptop
--download pycharm editor 
--
+## download pycharm editor 
+> install your vscode or pycharm  in your pc desktop or laptop
+
